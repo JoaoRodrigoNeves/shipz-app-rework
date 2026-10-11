@@ -4,7 +4,7 @@ A full-stack application built with **Spring Boot, Angular, and PostgreSQL**, co
 
 ## Technology Stack
 
-- **Backend:** Java 21 + Spring Boot 4.1.1
+- **Backend:** Java 25 + Spring Boot 4.1.1
 - **Frontend:** Angular 22 + TypeScript
 - **Database:** PostgreSQL 18
 - **Build tools:** Maven + npm
@@ -26,7 +26,7 @@ Recommended configuration:
 - **Project:** Maven
 - **Language:** Java
 - **Spring Boot:** 4.1.1
-- **Java:** 21
+- **Java:** 25
 - **Packaging:** Jar
 - **Dependencies:**
   - Spring Web
